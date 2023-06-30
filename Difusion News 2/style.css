@@ -1,0 +1,197 @@
+
+
+*{
+
+  font-family: 'Oswald', sans-serif;
+
+
+
+}
+
+
+.btn-1{
+  font-size: 12px;
+  color:white;
+  background-color: #1230A0;
+}
+
+.btn-1:hover{
+
+  color: white;
+
+}
+
+#mora{
+
+font-size: px;
+display: flex;
+height: vh;
+gap: 25px;
+flex-wrap: wrap;
+justify-content: space-around;
+align-items: center;
+
+
+
+}
+
+#two{
+
+   
+
+}
+
+#three{
+
+    
+
+
+}
+
+#four{
+
+   
+}
+
+#five{
+
+  
+}
+
+#six{
+
+
+}
+
+@media screen and (max-width: 400px;){
+
+#categorias{
+
+    font-family: 'Bebas Neue', sans-serif;
+
+}
+
+#postreel1{
+
+    position: relative;
+    left: 30px;
+
+}
+
+#postreel2{
+
+    position: relative;
+    left: 50px;
+
+}
+
+#postreel3{
+
+    position: relative;
+    left:70px;
+
+}
+
+#postreel4{
+
+    position: relative;
+    left:90px;
+
+}
+
+#postreel5{
+
+    position: relative;
+    left:110px;
+
+}
+
+#antes{
+
+    
+    width: 20px;
+
+
+}
+
+#luego{
+
+    width: 20px;
+
+}
+
+
+
+
+
+#carouselExample{
+
+    position: relative;
+    max-width: 100%;
+
+
+}
+
+.video-detail {
+    display: none;
+    animation: sweep-in 4s forwards;
+  }
+  
+  @keyframes sweep-in {
+    0% {
+      opacity: 0;
+      transform: translateX(-20%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX();
+    }
+  }
+  
+  #p1{
+
+    position: relative;
+    font-size: 12px;
+    left: 245px;
+    text-shadow: 10.0%;
+    color: #1230A0;
+    background-color: white;
+    width: 210px;
+    height: 356px;
+    padding-left: 6px;
+    bottom: 385px;
+    font-family: 'Oswald', sans-serif;
+    border-style:groove;
+    border-color: red;
+    
+
+  }
+
+
+  #au1{
+
+    position: relative;
+    left: 30px;
+
+  }
+
+  #atras1{
+
+    position: relative;
+    left:297px;
+    bottom: 420px;
+    z-index: 6;
+
+  }
+
+  #reproductor1{
+
+    position:relative;
+    bottom: 500px;
+    left: 295px;
+
+
+  }
+
+}
+  
